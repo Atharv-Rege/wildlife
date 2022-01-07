@@ -38,3 +38,11 @@ img {
 	height: 500px;
 	margin: 67px;
 }
+
+a {
+	color: orangered;
+}
+
+a:hover { 
+	color: orangered;
+}
